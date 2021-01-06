@@ -14,7 +14,7 @@ useState e useEffect
 
 [projeto-slider.netlify.app](https://projeto-slider.netlify.app/)
 
-<img src="https://github.com/jefferson1984/projeto-menu/blob/main/menu2.png">
+<img src="https://github.com/jefferson1984/Slider/blob/main/slider2.png">
 
 ## Reproduzir
 
