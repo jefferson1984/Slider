@@ -1,6 +1,6 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-menu)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/slider)
 
-![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-menu)
+![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/slider)
 
 ## Projeto Slider.
 
@@ -12,7 +12,7 @@ useState e useEffect
 
 ## Imagem do Projeto
 
-[projeto-menu.netlify.app](https://projeto-menu.netlify.app/)
+[projeto-slider.netlify.app](https://projeto-slider.netlify.app/)
 
 <img src="https://github.com/jefferson1984/projeto-menu/blob/main/menu2.png">
 
